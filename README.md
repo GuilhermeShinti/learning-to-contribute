@@ -44,3 +44,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Tamiris Bonicenha] (https://github.com/tamirisapbonicenha)
 
 - [Wallace de Souza Vizerra] (https://github.com/wallaceamxters)
+
+- [Guilherme Shinti](https://github.com/GuilhermeShinti/)
